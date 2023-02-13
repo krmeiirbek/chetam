@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "954316802537",
+    "project_id": "chetam-777",
+    "storage_bucket": "chetam-777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954316802537:android:e2abd9a7db887a36dda378",
+        "android_client_info": {
+          "package_name": "com.krmeiirbek.chetam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954316802537-u66ktgst31vpe1qhn7nksp8k26b8tnri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyVOOCSPYWYAsorROkuCq7wF5HZuibr3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954316802537-u66ktgst31vpe1qhn7nksp8k26b8tnri.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "954316802537-iuh8i806do30qkhcauljjrqomd5qdkrd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chetam"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
